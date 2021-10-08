@@ -1,0 +1,2 @@
+class Uer < ApplicationRecord
+end
